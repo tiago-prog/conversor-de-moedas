@@ -1,4 +1,4 @@
-# conversion
+# Currency converter
 
 ## Project setup
 ```
